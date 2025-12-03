@@ -50,4 +50,7 @@ root@openwebui-ct:~# history
    49  history
 root@openwebui-ct:~#
 
+
 解不了 ,,,,,,,,,,最後放棄 openwebui CT 
+
+所以才會有 VM-103 出現

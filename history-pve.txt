@@ -15,7 +15,7 @@ root@pve:~# history
    14  pwd
    15  ls
    16  df -h
-   17  wget https://us.download.nvidia.com/tesla/580.105.08/NVIDIA-Linux-x86_64-580.105.08.run
+   17  wget https://us.download.nvidia.com/tesla/580.105.08/NVIDIA-Linux-x86_64-580.105.08.run   不能用這個版本  跳轉!109 
    18  pwd
    19  ls -lat
    20  chmod +x NVIDIA-Linux-x86_64-580.105.08.run
@@ -149,3 +149,4 @@ root@pve:~# history
   148  clear
   149  history
 root@pve:~#
+

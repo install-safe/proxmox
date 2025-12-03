@@ -1,0 +1,151 @@
+root@pve:~# history
+    1  cd /etc/modprobe.d/
+    2  ls -lat
+    3  lspci
+    4  lspci | grep NVIDIA
+    5  lsmod | grep nouveau
+    6  cd /
+    7  ls -l /dev/dri
+    8  ls -l /dev/nvidia*
+    9  echo -e "blacklist nouveau\noptions nouveau modeset=0" > /etc/modprobe.d/blacklist-nouveau.conf && update-initramfs -u && reboot
+   10  cat /etc/modprobe.d/blacklist-nouveau.conf
+   11  lsmod | grep nouveau
+   12  lsmod | grep nouveau
+   13  lspci | grep NVIDIA
+   14  pwd
+   15  ls
+   16  df -h
+   17  wget https://us.download.nvidia.com/tesla/580.105.08/NVIDIA-Linux-x86_64-580.105.08.run
+   18  pwd
+   19  ls -lat
+   20  chmod +x NVIDIA-Linux-x86_64-580.105.08.run
+   21  apt install build-essential pve-headers-$(uname -r)
+   22  rmmod nouveau
+   23  vi /etc/apt/sources.list.d/pve-enterprise.list
+   24  cat /etc/apt/sources.list
+   25  cat /etc/apt/sources.list.d/pve-no-subscription.list
+   26  apt update
+   27  vi /etc/apt/sources.list
+   28  apt update
+   29  cat  /etc/apt/sources.list
+   30  cat /etc/apt/sources.list
+   31  ls -lat /etc/apt/sources.list.d/
+   32  vi  /etc/apt/sources.list.d/pve-enterprise.sources
+   33  apt update
+   34  ls -lat /etc/apt/sources.list.d/
+   35  vi  /etc/apt/sources.list.d/ceph.sources
+   36  apt update
+   37  apt install build-essential pve-headers-$(uname -r)
+   38  history
+   39  pwd
+   40  ls -alt
+   41  ./NVIDIA-Linux-x86_64-580.105.08.run
+   42  reboot
+   43  ls -l /dev/dri
+   44  ls -l /dev/*
+   45  cd /dev/
+   46  ls -lat |more
+   47  ls -l /dev/dri
+   48  lshw | grep nvidia
+   49  lspci | grep nvidia
+   50  lspci
+   51  lspci  | grep nvidia
+   52  lspci  | grep nvidia*
+   53  lspci  | grep NVIDIA
+   54  ls -l /dev/dri
+   55  ls -l /dev/dri
+   56  nvidia-smi
+   57  ls -l /dev/nvidia*
+   58  ls -l /dev/dri
+   59  pct enter 101
+   60  pveam available
+   61  pveam download local ubuntu-24.04-standard_24.04-2_amd64.tar.zst
+   62  pct stop 101
+   63  ls -l /dev/nvidia*
+   64  ls -l /dev/dri
+   65  CTID=101 # 設定變數以方便使用
+   66  pct set $CTID -lxc-conf 'lxc.cgroup2.devices.allow: c 195:* rwm'
+   67  pct set $CTID -lxc-conf 'lxc.cgroup2.devices.allow: c 511:* rwm'
+   68  pct set $CTID -lxc-conf 'lxc.cgroup2.devices.allow: c 226:* rwm'
+   69  # 映射 NVIDIA 專用裝置
+   70  pct set $CTID -lxc-conf 'lxc.mount.entry: /dev/nvidia0 dev/nvidia0 none bind,optional,create=file'
+   71  pct set $CTID -lxc-conf 'lxc.mount.entry: /dev/nvidiactl dev/nvidiactl none bind,optional,create=file'
+   72  pct set $CTID -lxc-conf 'lxc.mount.entry: /dev/nvidia-uvm dev/nvidia-uvm none bind,optional,create=file'
+   73  pct set $CTID -lxc-conf 'lxc.mount.entry: /dev/nvidia-uvm-tools dev/nvidia-uvm-tools none bind,optional,create=file'
+   74  # 映射 DRM 渲染裝置
+   75  pct set $CTID -lxc-conf 'lxc.mount.entry: /dev/dri/card0 dev/dri/card0 none bind,optional,create=file'
+   76  pct set $CTID -lxc-conf 'lxc.mount.entry: /dev/dri/card1 dev/dri/card1 none bind,optional,create=file'
+   77  pct set $CTID -lxc-conf 'lxc.mount.entry: /dev/dri/renderD128 dev/dri/renderD128 none bind,optional,create=file'
+   78  pct set 101 -lxc-conf 'lxc.cgroup2.devices.allow: c 195:* rwm'
+   79  pct set 101 -lxc-conf 'lxc.cgroup2.devices.allow: c 511:* rwm'
+   80  pct set 101 -lxc-conf 'lxc.cgroup2.devices.allow: c 226:* rwm'
+   81  pct set 101 -lxc-conf 'lxc.cgroup2.devices.allow: c 195:* rwm'
+   82  cat /etc/pve/lxc/101.conf
+   83  pct set 101  -lxc.conf 'lxc.cgroup2.devices.allow: c 195:* rwm'
+   84  VI  /etc/pve/lxc/101.conf
+   85  vi /etc/pve/lxc/101.conf
+   86  pct start 101
+   87  pct enter 101
+   88  nvidia-smi
+   89  apt install nvtop
+   90  nvtop
+   91  # 1. 下載並導入 GPG 密鑰
+   92  curl -fsSL https://nvidia.github.io/libnvidia-container/gpgkey | gpg --dearmor | sudo tee /usr/share/keyrings/nvidia-container-toolkit-keyring.gpg > /dev/null
+   93  # 2. 添加倉庫到 sources.list.d。我們使用與 Trixie 最接近的穩定 Debian 版本 (Debian 12/Bookworm) 的倉庫。
+   94  curl -s -L https://nvidia.github.io/libnvidia-container/stable/debian12/nvidia-container-toolkit.list | sed 's#deb https://#deb [signed-by=/usr/share/keyrings/nvidia-container-toolkit-keyring.gpg] https://#g' | sudo tee /etc/apt/sources.list.d/nvidia-container-toolkit.list
+   95  curl -fsSL https://nvidia.github.io/libnvidia-container/gpgkey | gpg --dearmor | sudo tee /usr/share/keyrings/nvidia-container-toolkit-keyring.gpg > /dev/null
+   96  curl -fsSL https://nvidia.github.io/libnvidia-container/gpgkey | gpg --dearmor |  tee /usr/share/keyrings/nvidia-container-toolkit-keyring.gpg > /dev/null
+   97  curl -s -L https://nvidia.github.io/libnvidia-container/stable/debian12/nvidia-container-toolkit.list | sed 's#deb https://#deb [signed-by=/usr/share/keyrings/nvidia-container-toolkit-keyring.gpg] https://#g' |  tee /etc/apt/sources.list.d/nvidia-container-toolkit.list
+   98  apt update
+   99  cd /etc/apt/sources.list.d/
+  100  ls -lat
+  101  rm nvidia-container-toolkit.list
+  102  apt update
+  103  nvidia-smi
+  104  pwd
+  105  ls -lat
+  106  cd ~
+  107  pwd
+  108  ls -lat
+  109  wget https://us.download.nvidia.com/XFree86/Linux-x86_64/580.95.05/NVIDIA-Linux-x86_64-580.95.05.run
+  110  ls -lat
+  111  ./NVIDIA-Linux-x86_64-580.105.08.run --uninstall
+  112  reboot
+  113  nvidia-smi
+  114  pwd
+  115  ls -lat
+  116  rm NVIDIA-Linux-x86_64-580.105.08.run
+  117  df -h
+  118  chomd +x NVIDIA-Linux-x86_64-580.95.05.run
+  119  pwd
+  120  chmod
+  121  chmod +x NVIDIA-Linux-x86_64-580.95.05.run
+  122  ls -lat
+  123  ./NVIDIA-Linux-x86_64-580.95.05.run
+  124  reboot
+  125  nvtop
+  126  nvtop
+  127  nvtop
+  128  nvtop
+  129  top
+  130  pct enter 101
+  131  watch
+  132  watch -n 1 nvidia-smi
+  133  top
+  134  watch -n 1 nvidia-smi
+  135  nvidia-smi
+  136  nvitop
+  137  nvtop
+  138  apt update
+  139  apt install nvitop
+  140  pct start 101
+  141  pct enter 101
+  142  watch -n 1 nvidia-smi
+  143   nvidia-smi
+  144  df -h
+  145  history
+  146   pveam available
+  147   pveam available | grep ubuntu
+  148  clear
+  149  history
+root@pve:~#

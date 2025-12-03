@@ -1,0 +1,409 @@
+login as: user
+user@192.168.55.183's password:
+Welcome to Ubuntu 24.04.3 LTS (GNU/Linux 6.8.0-88-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Wed Dec  3 01:30:35 AM UTC 2025
+
+  System load:  0.33               Processes:              164
+  Usage of /:   13.5% of 47.93GB   Users logged in:        0
+  Memory usage: 3%                 IPv4 address for ens18: 192.168.55.183
+  Swap usage:   0%
+
+
+Expanded Security Maintenance for Applications is not enabled.
+
+33 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+user@vm-103:~$ sudo apt update
+[sudo] password for user:
+Hit:1 http://tw.archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://tw.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:3 http://tw.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu noble-security InRelease
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+33 packages can be upgraded. Run 'apt list --upgradable' to see them.
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$ ping 192.168.55.181
+PING 192.168.55.181 (192.168.55.181) 56(84) bytes of data.
+64 bytes from 192.168.55.181: icmp_seq=1 ttl=64 time=0.160 ms
+^C
+--- 192.168.55.181 ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 0.160/0.160/0.160/0.000 ms
+user@vm-103:~$ sudo apt update
+sudo apt install ca-certificates curl gnupg lsb-release -y
+[sudo] password for user:
+Hit:1 http://tw.archive.ubuntu.com/ubuntu noble InRelease
+Hit:2 http://tw.archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:3 http://tw.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:4 http://security.ubuntu.com/ubuntu noble-security InRelease
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+33 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+ca-certificates is already the newest version (20240203).
+ca-certificates set to manually installed.
+curl is already the newest version (8.5.0-2ubuntu10.6).
+curl set to manually installed.
+gnupg is already the newest version (2.4.4-2ubuntu17.3).
+gnupg set to manually installed.
+lsb-release is already the newest version (12.0-2).
+lsb-release set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 33 not upgraded.
+user@vm-103:~$ sudo install -m 0755 -d /etc/apt/keyrings
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+sudo chmod a+r /etc/apt/keyrings/docker.gpg
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$ echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$ sudo apt update
+sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
+Get:1 https://download.docker.com/linux/ubuntu noble InRelease [48.5 kB]
+Hit:2 http://tw.archive.ubuntu.com/ubuntu noble InRelease
+Hit:3 http://tw.archive.ubuntu.com/ubuntu noble-updates InRelease
+Get:4 https://download.docker.com/linux/ubuntu noble/stable amd64 Packages [39.7 kB]
+Hit:5 http://tw.archive.ubuntu.com/ubuntu noble-backports InRelease
+Hit:6 http://security.ubuntu.com/ubuntu noble-security InRelease
+Fetched 88.2 kB in 1s (131 kB/s)
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+33 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  docker-ce-rootless-extras libslirp0 pigz slirp4netns
+Suggested packages:
+  cgroupfs-mount | cgroup-lite docker-model-plugin
+The following NEW packages will be installed:
+  containerd.io docker-buildx-plugin docker-ce docker-ce-cli docker-ce-rootless-extras docker-compose-plugin libslirp0 pigz slirp4netns
+0 upgraded, 9 newly installed, 0 to remove and 33 not upgraded.
+Need to get 97.8 MB of archives.
+After this operation, 409 MB of additional disk space will be used.
+Get:1 https://download.docker.com/linux/ubuntu noble/stable amd64 containerd.io amd64 2.2.0-2~ubuntu.24.04~noble [23.3 MB]
+Get:2 http://tw.archive.ubuntu.com/ubuntu noble/universe amd64 pigz amd64 2.8-1 [65.6 kB]
+Get:3 http://tw.archive.ubuntu.com/ubuntu noble/main amd64 libslirp0 amd64 4.7.0-1ubuntu3 [63.8 kB]
+Get:4 http://tw.archive.ubuntu.com/ubuntu noble/universe amd64 slirp4netns amd64 1.2.1-1build2 [34.9 kB]
+Get:5 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-ce-cli amd64 5:29.1.2-1~ubuntu.24.04~noble [16.3 MB]
+Get:6 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-ce amd64 5:29.1.2-1~ubuntu.24.04~noble [21.0 MB]
+Get:7 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-buildx-plugin amd64 0.30.1-1~ubuntu.24.04~noble [16.4 MB]
+Get:8 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-ce-rootless-extras amd64 5:29.1.2-1~ubuntu.24.04~noble [6,383 kB]
+Get:9 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-compose-plugin amd64 2.40.3-1~ubuntu.24.04~noble [14.3 MB]
+Fetched 97.8 MB in 17s (5,727 kB/s)
+Selecting previously unselected package containerd.io.
+(Reading database ... 87308 files and directories currently installed.)
+Preparing to unpack .../0-containerd.io_2.2.0-2~ubuntu.24.04~noble_amd64.deb ...
+Unpacking containerd.io (2.2.0-2~ubuntu.24.04~noble) ...
+Selecting previously unselected package docker-ce-cli.
+Preparing to unpack .../1-docker-ce-cli_5%3a29.1.2-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-ce-cli (5:29.1.2-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package docker-ce.
+Preparing to unpack .../2-docker-ce_5%3a29.1.2-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-ce (5:29.1.2-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package pigz.
+Preparing to unpack .../3-pigz_2.8-1_amd64.deb ...
+Unpacking pigz (2.8-1) ...
+Selecting previously unselected package docker-buildx-plugin.
+Preparing to unpack .../4-docker-buildx-plugin_0.30.1-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-buildx-plugin (0.30.1-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package docker-ce-rootless-extras.
+Preparing to unpack .../5-docker-ce-rootless-extras_5%3a29.1.2-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-ce-rootless-extras (5:29.1.2-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package docker-compose-plugin.
+Preparing to unpack .../6-docker-compose-plugin_2.40.3-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-compose-plugin (2.40.3-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package libslirp0:amd64.
+Preparing to unpack .../7-libslirp0_4.7.0-1ubuntu3_amd64.deb ...
+Unpacking libslirp0:amd64 (4.7.0-1ubuntu3) ...
+Selecting previously unselected package slirp4netns.
+Preparing to unpack .../8-slirp4netns_1.2.1-1build2_amd64.deb ...
+Unpacking slirp4netns (1.2.1-1build2) ...
+Setting up docker-buildx-plugin (0.30.1-1~ubuntu.24.04~noble) ...
+Setting up containerd.io (2.2.0-2~ubuntu.24.04~noble) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/containerd.service → /usr/lib/systemd/system/containerd.service.
+Setting up docker-compose-plugin (2.40.3-1~ubuntu.24.04~noble) ...
+Setting up docker-ce-cli (5:29.1.2-1~ubuntu.24.04~noble) ...
+Setting up libslirp0:amd64 (4.7.0-1ubuntu3) ...
+Setting up pigz (2.8-1) ...
+Setting up docker-ce-rootless-extras (5:29.1.2-1~ubuntu.24.04~noble) ...
+Setting up slirp4netns (1.2.1-1build2) ...
+Setting up docker-ce (5:29.1.2-1~ubuntu.24.04~noble) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/docker.service → /usr/lib/systemd/system/docker.service.
+Created symlink /etc/systemd/system/sockets.target.wants/docker.socket → /usr/lib/systemd/system/docker.socket.
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.6) ...
+Scanning processes...
+Scanning linux images...
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+user@vm-103:~$ sudo docker run hello-world
+Unable to find image 'hello-world:latest' locally
+latest: Pulling from library/hello-world
+17eec7bbc9d7: Pull complete
+ea52d2000f90: Download complete
+Digest: sha256:f7931603f70e13dbd844253370742c4fc4202d290c80442b2e68706d8f33ce26
+Status: Downloaded newer image for hello-world:latest
+
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+To generate this message, Docker took the following steps:
+ 1. The Docker client contacted the Docker daemon.
+ 2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+    (amd64)
+ 3. The Docker daemon created a new container from that image which runs the
+    executable that produces the output you are currently reading.
+ 4. The Docker daemon streamed that output to the Docker client, which sent it
+    to your terminal.
+
+To try something more ambitious, you can run an Ubuntu container with:
+ $ docker run -it ubuntu bash
+
+Share images, automate workflows, and more with a free Docker ID:
+ https://hub.docker.com/
+
+For more examples and ideas, visit:
+ https://docs.docker.com/get-started/
+
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$ sudo usermod -aG docker $USER
+user@vm-103:~$ # 確保您已經重新登入，以便能夠免 sudo 執行 docker 指令
+docker run -d \
+    --name open-webui \
+    -p 3000:8080 \
+    -e OLLAMA_BASE_URL=http://[OLLAMA_CT_IP]:11434 \
+    -v open-webui-data:/app/backend/data \
+    --restart always \
+    ghcr.io/open-webui/open-webui:main^C
+user@vm-103:~$ ^C
+user@vm-103:~$ ^C
+user@vm-103:~$ ^C
+user@vm-103:~$ ^C
+user@vm-103:~$ ^C
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$ docker run -d \
+    --name open-webui \
+    -p 3000:8080 \
+    -e OLLAMA_BASE_URL=http://192.168.55.181:11434 \
+    -v open-webui-data:/app/backend/data \
+    --restart always \
+    ghcr.io/open-webui/open-webui:main
+docker: permission denied while trying to connect to the docker API at unix:///var/run/docker.sock
+
+Run 'docker run --help' for more information
+user@vm-103:~$
+user@vm-103:~$ docker run -d     --name open-webui     -p 3000:8080     -e OLLAMA_BASE_URL=http://192.168.55.181:11434     -v open-webui-data:/app/backend/data     --restart always     ghcr.io/open-webui/open-we^C
+user@vm-103:~$ ^C
+user@vm-103:~$ ^C
+user@vm-103:~$ ^C
+user@vm-103:~$ exit
+logout
+login as: user
+user@192.168.55.183's password:
+Welcome to Ubuntu 24.04.3 LTS (GNU/Linux 6.8.0-88-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Wed Dec  3 01:53:41 AM UTC 2025
+
+  System load:  0.0                Processes:              168
+  Usage of /:   14.4% of 47.93GB   Users logged in:        1
+  Memory usage: 4%                 IPv4 address for ens18: 192.168.55.183
+  Swap usage:   0%
+
+ * Strictly confined Kubernetes makes edge and IoT secure. Learn how MicroK8s
+   just raised the bar for easy, resilient and secure K8s cluster deployment.
+
+   https://ubuntu.com/engage/secure-kubernetes-at-the-edge
+
+Expanded Security Maintenance for Applications is not enabled.
+
+33 updates can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+Last login: Wed Dec  3 01:31:22 2025 from 192.168.55.245
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$ docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+user@vm-103:~$ docker run
+docker: 'docker run' requires at least 1 argument
+
+Usage:  docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
+
+See 'docker run --help' for more information
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$ docker run -d \
+    --name open-webui \
+    -p 3000:8080 \
+    -e OLLAMA_BASE_URL=http://192.168.55.181:11434 \
+    -v open-webui-data:/app/backend/data \
+    --restart always \
+    ghcr.io/open-webui/open-webui:main
+Unable to find image 'ghcr.io/open-webui/open-webui:main' locally
+main: Pulling from open-webui/open-webui
+d1dc32d76c2b: Pull complete
+4f4fb700ef54: Pull complete
+2a8f65acf5f6: Pull complete
+8e44f01296e3: Pull complete
+d65062835667: Pull complete
+1be9fc5da4b1: Pull complete
+57b9cf5510db: Pull complete
+070c75a7a5ee: Pull complete
+dfd2ee75997d: Pull complete
+9a78370691fd: Pull complete
+b4a29fac4e5b: Pull complete
+2dc6d3e444df: Pull complete
+e2ab42bb6841: Pull complete
+1f1af629c3f9: Pull complete
+3c7fc071ea24: Pull complete
+ad82fb53ca3b: Download complete
+Digest: sha256:c8e04b9319257448fa4e7ad140cb6596994217ec83d6e7656ccba649bf557318
+Status: Downloaded newer image for ghcr.io/open-webui/open-webui:main
+31b25da70d1176e932c8290e43cb42b60a34419db830760421768c4e14524439
+user@vm-103:~$ docker ps
+CONTAINER ID   IMAGE                                COMMAND           CREATED          STATUS                             PORTS                                         NAMES
+31b25da70d11   ghcr.io/open-webui/open-webui:main   "bash start.sh"   36 seconds ago   Up 34 seconds (health: starting)   0.0.0.0:3000->8080/tcp, [::]:3000->8080/tcp   open-webui
+user@vm-103:~$ ufw status
+ERROR: You need to be root to run this script
+user@vm-103:~$ sudoi ufw status
+Command 'sudoi' not found, did you mean:
+  command 'sudo' from deb sudo (1.9.15p5-3ubuntu5.24.04.1)
+  command 'sudo' from deb sudo-ldap (1.9.15p5-3ubuntu5.24.04.1)
+Try: sudo apt install <deb name>
+user@vm-103:~$ sudo ufw status
+[sudo] password for user:
+Status: inactive
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$ sudo ufw status
+Status: inactive
+user@vm-103:~$ docker ps
+CONTAINER ID   IMAGE                                COMMAND           CREATED              STATUS                                 PORTS                                         NAMES
+31b25da70d11   ghcr.io/open-webui/open-webui:main   "bash start.sh"   About a minute ago   Up About a minute (health: starting)   0.0.0.0:3000->8080/tcp, [::]:3000->8080/tcp   open-webui
+user@vm-103:~$ docker ps
+CONTAINER ID   IMAGE                                COMMAND           CREATED              STATUS                                 PORTS                                         NAMES
+31b25da70d11   ghcr.io/open-webui/open-webui:main   "bash start.sh"   About a minute ago   Up About a minute (health: starting)   0.0.0.0:3000->8080/tcp, [::]:3000->8080/tcp   open-webui
+user@vm-103:~$ docker ps
+CONTAINER ID   IMAGE                                COMMAND           CREATED              STATUS                          PORTS                                         NAMES
+31b25da70d11   ghcr.io/open-webui/open-webui:main   "bash start.sh"   About a minute ago   Up About a minute (unhealthy)   0.0.0.0:3000->8080/tcp, [::]:3000->8080/tcp   open-webui
+user@vm-103:~$ docker ps
+CONTAINER ID   IMAGE                                COMMAND           CREATED              STATUS                          PORTS                                         NAMES
+31b25da70d11   ghcr.io/open-webui/open-webui:main   "bash start.sh"   About a minute ago   Up About a minute (unhealthy)   0.0.0.0:3000->8080/tcp, [::]:3000->8080/tcp   open-webui
+user@vm-103:~$ docker ps
+CONTAINER ID   IMAGE                                COMMAND           CREATED         STATUS                   PORTS                                         NAMES
+31b25da70d11   ghcr.io/open-webui/open-webui:main   "bash start.sh"   2 minutes ago   Up 2 minutes (healthy)   0.0.0.0:3000->8080/tcp, [::]:3000->8080/tcp   open-webui
+user@vm-103:~$ docker run
+docker: 'docker run' requires at least 1 argument
+
+Usage:  docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
+
+See 'docker run --help' for more information
+user@vm-103:~$ docker ps
+CONTAINER ID   IMAGE                                COMMAND           CREATED         STATUS                   PORTS                                         NAMES
+31b25da70d11   ghcr.io/open-webui/open-webui:main   "bash start.sh"   2 minutes ago   Up 2 minutes (healthy)   0.0.0.0:3000->8080/tcp, [::]:3000->8080/tcp   open-webui
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$
+user@vm-103:~$ history
+    1  sudo apt update
+    2  ping 192.168.55.181
+    3  sudo apt update
+    4  sudo apt install ca-certificates curl gnupg lsb-release -y
+    5  sudo install -m 0755 -d /etc/apt/keyrings
+    6  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+    7  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+    8  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+    9    $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+   10  sudo apt update
+   11  sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
+   12  sudo docker run hello-world
+   13  sudo usermod -aG docker $USER
+   14  docker run -d     --name open-webui     -p 3000:8080     -e OLLAMA_BASE_URL=http://192.168.55.181:11434     -v open-webui-data:/app/backend/data     --restart always     ghcr.io/open-webui/open-webui:main
+   15  exit
+   16  docker ps
+   17  docker run
+   18  docker run -d     --name open-webui     -p 3000:8080     -e OLLAMA_BASE_URL=http://192.168.55.181:11434     -v open-webui-data:/app/backend/data     --restart always     ghcr.io/open-webui/open-webui:main
+   19  docker ps
+   20  ufw status
+   21  sudoi ufw status
+   22  sudo ufw status
+   23  docker ps
+   24  docker run
+   25  docker ps
+   26  history
+user@vm-103:~$ history
+    1  sudo apt update
+    2  ping 192.168.55.181
+    3  sudo apt update
+    4  sudo apt install ca-certificates curl gnupg lsb-release -y
+    5  sudo install -m 0755 -d /etc/apt/keyrings
+    6  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+    7  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+    8  echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+    9    $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+   10  sudo apt update
+   11  sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
+   12  sudo docker run hello-world
+   13  sudo usermod -aG docker $USER
+   14  docker run -d     --name open-webui     -p 3000:8080     -e OLLAMA_BASE_URL=http://192.168.55.181:11434     -v open-webui-data:/app/backend/data     --restart always     ghcr.io/open-webui/open-webui:main
+   15  exit
+   16  docker ps
+   17  docker run
+   18  docker run -d     --name open-webui     -p 3000:8080     -e OLLAMA_BASE_URL=http://192.168.55.181:11434     -v open-webui-data:/app/backend/data     --restart always     ghcr.io/open-webui/open-webui:main
+   19  docker ps
+   20  ufw status
+   21  sudoi ufw status
+   22  sudo ufw status
+   23  docker ps
+   24  docker run
+   25  docker ps
+   26  history
+   27  history
+user@vm-103:~$

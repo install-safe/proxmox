@@ -1,0 +1,1929 @@
+Unpacking libext2fs2t64:amd64 (1.47.0-2.4~exp1ubuntu4.1) over (1.47.0-2.4~exp1ubuntu4) ...
+Setting up libext2fs2t64:amd64 (1.47.0-2.4~exp1ubuntu4.1) ...
+(Reading database ... 60597 files and directories currently installed.)
+Preparing to unpack .../e2fsprogs_1.47.0-2.4~exp1ubuntu4.1_amd64.deb ...
+Unpacking e2fsprogs (1.47.0-2.4~exp1ubuntu4.1) over (1.47.0-2.4~exp1ubuntu4) ...
+Preparing to unpack .../rsync_3.2.7-1ubuntu1.2_amd64.deb ...
+Unpacking rsync (3.2.7-1ubuntu1.2) over (3.2.7-1ubuntu1) ...
+Preparing to unpack .../libsmartcols1_2.39.3-9ubuntu6.3_amd64.deb ...
+Unpacking libsmartcols1:amd64 (2.39.3-9ubuntu6.3) over (2.39.3-9ubuntu6) ...
+Setting up libsmartcols1:amd64 (2.39.3-9ubuntu6.3) ...
+(Reading database ... 60597 files and directories currently installed.)
+Preparing to unpack .../uuid-runtime_2.39.3-9ubuntu6.3_amd64.deb ...
+Unpacking uuid-runtime (2.39.3-9ubuntu6.3) over (2.39.3-9ubuntu6) ...
+Preparing to unpack .../passwd_1%3a4.13+dfsg1-4ubuntu3.2_amd64.deb ...
+Unpacking passwd (1:4.13+dfsg1-4ubuntu3.2) over (1:4.13+dfsg1-4ubuntu3) ...
+Setting up passwd (1:4.13+dfsg1-4ubuntu3.2) ...
+(Reading database ... 60597 files and directories currently installed.)
+Preparing to unpack .../00-libcom-err2_1.47.0-2.4~exp1ubuntu4.1_amd64.deb ...
+Unpacking libcom-err2:amd64 (1.47.0-2.4~exp1ubuntu4.1) over (1.47.0-2.4~exp1ubuntu4) ...
+Preparing to unpack .../01-libk5crypto3_1.20.1-6ubuntu2.6_amd64.deb ...
+Unpacking libk5crypto3:amd64 (1.20.1-6ubuntu2.6) over (1.20.1-6ubuntu2) ...
+Preparing to unpack .../02-libgssapi-krb5-2_1.20.1-6ubuntu2.6_amd64.deb ...
+Unpacking libgssapi-krb5-2:amd64 (1.20.1-6ubuntu2.6) over (1.20.1-6ubuntu2) ...
+Preparing to unpack .../03-libkrb5support0_1.20.1-6ubuntu2.6_amd64.deb ...
+Unpacking libkrb5support0:amd64 (1.20.1-6ubuntu2.6) over (1.20.1-6ubuntu2) ...
+Preparing to unpack .../04-libkrb5-3_1.20.1-6ubuntu2.6_amd64.deb ...
+Unpacking libkrb5-3:amd64 (1.20.1-6ubuntu2.6) over (1.20.1-6ubuntu2) ...
+Preparing to unpack .../05-openssh-sftp-server_1%3a9.6p1-3ubuntu13.14_amd64.deb ...
+Unpacking openssh-sftp-server (1:9.6p1-3ubuntu13.14) over (1:9.6p1-3ubuntu13) ...
+Preparing to unpack .../06-openssh-server_1%3a9.6p1-3ubuntu13.14_amd64.deb ...
+Unpacking openssh-server (1:9.6p1-3ubuntu13.14) over (1:9.6p1-3ubuntu13) ...
+Preparing to unpack .../07-openssh-client_1%3a9.6p1-3ubuntu13.14_amd64.deb ...
+Unpacking openssh-client (1:9.6p1-3ubuntu13.14) over (1:9.6p1-3ubuntu13) ...
+Preparing to unpack .../08-libproc2-0_2%3a4.0.4-4ubuntu3.2_amd64.deb ...
+Unpacking libproc2-0:amd64 (2:4.0.4-4ubuntu3.2) over (2:4.0.4-4ubuntu3) ...
+Preparing to unpack .../09-procps_2%3a4.0.4-4ubuntu3.2_amd64.deb ...
+Unpacking procps (2:4.0.4-4ubuntu3.2) over (2:4.0.4-4ubuntu3) ...
+Preparing to unpack .../10-libattr1_1%3a2.5.2-1build1.1_amd64.deb ...
+Unpacking libattr1:amd64 (1:2.5.2-1build1.1) over (1:2.5.2-1build1) ...
+Setting up libattr1:amd64 (1:2.5.2-1build1.1) ...
+(Reading database ... 60598 files and directories currently installed.)
+Preparing to unpack .../libgpg-error0_1.47-3build2.1_amd64.deb ...
+Unpacking libgpg-error0:amd64 (1.47-3build2.1) over (1.47-3build2) ...
+Setting up libgpg-error0:amd64 (1.47-3build2.1) ...
+(Reading database ... 60598 files and directories currently installed.)
+Preparing to unpack .../libmd0_1.1.0-2build1.1_amd64.deb ...
+Unpacking libmd0:amd64 (1.1.0-2build1.1) over (1.1.0-2build1) ...
+Setting up libmd0:amd64 (1.1.0-2build1.1) ...
+(Reading database ... 60598 files and directories currently installed.)
+Preparing to unpack .../00-libss2_1.47.0-2.4~exp1ubuntu4.1_amd64.deb ...
+Unpacking libss2:amd64 (1.47.0-2.4~exp1ubuntu4.1) over (1.47.0-2.4~exp1ubuntu4) ...
+Preparing to unpack .../01-dhcpcd-base_1%3a10.0.6-1ubuntu3.1_amd64.deb ...
+Unpacking dhcpcd-base (1:10.0.6-1ubuntu3.1) over (1:10.0.6-1ubuntu3) ...
+Preparing to unpack .../02-distro-info-data_0.60ubuntu0.5_all.deb ...
+Unpacking distro-info-data (0.60ubuntu0.5) over (0.60ubuntu0.1) ...
+Preparing to unpack .../03-dmsetup_2%3a1.02.185-3ubuntu3.2_amd64.deb ...
+Unpacking dmsetup (2:1.02.185-3ubuntu3.2) over (2:1.02.185-3ubuntu3) ...
+Preparing to unpack .../04-eject_2.39.3-9ubuntu6.3_amd64.deb ...
+Unpacking eject (2.39.3-9ubuntu6.3) over (2.39.3-9ubuntu6) ...
+Preparing to unpack .../05-gir1.2-glib-2.0_2.80.0-6ubuntu3.4_amd64.deb ...
+Unpacking gir1.2-glib-2.0:amd64 (2.80.0-6ubuntu3.4) over (2.80.0-6ubuntu1) ...
+Preparing to unpack .../06-libglib2.0-0t64_2.80.0-6ubuntu3.4_amd64.deb ...
+Unpacking libglib2.0-0t64:amd64 (2.80.0-6ubuntu3.4) over (2.80.0-6ubuntu1) ...
+Preparing to unpack .../07-libelf1t64_0.190-1.1ubuntu0.1_amd64.deb ...
+Unpacking libelf1t64:amd64 (0.190-1.1ubuntu0.1) over (0.190-1.1build4) ...
+Preparing to unpack .../08-libpam-cap_1%3a2.66-5ubuntu2.2_amd64.deb ...
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+Unpacking libpam-cap:amd64 (1:2.66-5ubuntu2.2) over (1:2.66-5ubuntu2) ...
+Preparing to unpack .../09-libcap2-bin_1%3a2.66-5ubuntu2.2_amd64.deb ...
+Unpacking libcap2-bin (1:2.66-5ubuntu2.2) over (1:2.66-5ubuntu2) ...
+Preparing to unpack .../10-iproute2_6.1.0-1ubuntu6.2_amd64.deb ...
+Unpacking iproute2 (6.1.0-1ubuntu6.2) over (6.1.0-1ubuntu6) ...
+Preparing to unpack .../11-iputils-ping_3%3a20240117-1ubuntu0.1_amd64.deb ...
+Unpacking iputils-ping (3:20240117-1ubuntu0.1) over (3:20240117-1build1) ...
+Preparing to unpack .../12-krb5-locales_1.20.1-6ubuntu2.6_all.deb ...
+Unpacking krb5-locales (1.20.1-6ubuntu2.6) over (1.20.1-6ubuntu2) ...
+Preparing to unpack .../13-libbsd0_0.12.1-1build1.1_amd64.deb ...
+Unpacking libbsd0:amd64 (0.12.1-1build1.1) over (0.12.1-1build1) ...
+Preparing to unpack .../14-libglib2.0-data_2.80.0-6ubuntu3.4_all.deb ...
+Unpacking libglib2.0-data (2.80.0-6ubuntu3.4) over (2.80.0-6ubuntu1) ...
+Preparing to unpack .../15-libicu74_74.2-1ubuntu3.1_amd64.deb ...
+Unpacking libicu74:amd64 (74.2-1ubuntu3.1) over (74.2-1ubuntu3) ...
+Preparing to unpack .../16-python3-netplan_1.1.2-2~ubuntu24.04.2_amd64.deb ...
+Unpacking python3-netplan (1.1.2-2~ubuntu24.04.2) over (1.0-2ubuntu1) ...
+Preparing to unpack .../17-netplan-generator_1.1.2-2~ubuntu24.04.2_amd64.deb ...
+Adding 'diversion of /lib/systemd/system-generators/netplan to /lib/systemd/system-generators/netplan.usr-is-merged by netplan-generator'
+Unpacking netplan-generator (1.1.2-2~ubuntu24.04.2) over (1.0-2ubuntu1) ...
+Preparing to unpack .../18-netplan.io_1.1.2-2~ubuntu24.04.2_amd64.deb ...
+Unpacking netplan.io (1.1.2-2~ubuntu24.04.2) over (1.0-2ubuntu1) ...
+Preparing to unpack .../19-libnetplan1_1.1.2-2~ubuntu24.04.2_amd64.deb ...
+Unpacking libnetplan1:amd64 (1.1.2-2~ubuntu24.04.2) over (1.0-2ubuntu1) ...
+Preparing to unpack .../20-libsqlite3-0_3.45.1-1ubuntu2.5_amd64.deb ...
+Unpacking libsqlite3-0:amd64 (3.45.1-1ubuntu2.5) over (3.45.1-1ubuntu2) ...
+Preparing to unpack .../21-libxml2_2.9.14+dfsg-1.3ubuntu3.6_amd64.deb ...
+Unpacking libxml2:amd64 (2.9.14+dfsg-1.3ubuntu3.6) over (2.9.14+dfsg-1.3ubuntu3) ...
+Preparing to unpack .../22-python-apt-common_2.7.7ubuntu5_all.deb ...
+Unpacking python-apt-common (2.7.7ubuntu5) over (2.7.7ubuntu1) ...
+Preparing to unpack .../23-python3-apt_2.7.7ubuntu5_amd64.deb ...
+Unpacking python3-apt (2.7.7ubuntu5) over (2.7.7ubuntu1) ...
+Preparing to unpack .../24-rsyslog_8.2312.0-3ubuntu9.1_amd64.deb ...
+Unpacking rsyslog (8.2312.0-3ubuntu9.1) over (8.2312.0-3ubuntu9) ...
+Preparing to unpack .../25-sudo_1.9.15p5-3ubuntu5.24.04.1_amd64.deb ...
+Unpacking sudo (1.9.15p5-3ubuntu5.24.04.1) over (1.9.15p5-3ubuntu5) ...
+Preparing to unpack .../26-systemd-hwe-hwdb_255.1.6_all.deb ...
+Unpacking systemd-hwe-hwdb (255.1.6) over (255.1.3) ...
+Preparing to unpack .../27-tzdata_2025b-0ubuntu0.24.04.1_all.deb ...
+Unpacking tzdata (2025b-0ubuntu0.24.04.1) over (2024a-2ubuntu1) ...
+Preparing to unpack .../28-ubuntu-pro-client-l10n_37.1ubuntu0~24.04_amd64.deb ...
+Unpacking ubuntu-pro-client-l10n (37.1ubuntu0~24.04) over (31.2.3) ...
+Preparing to unpack .../29-ubuntu-pro-client_37.1ubuntu0~24.04_amd64.deb ...
+Unpacking ubuntu-pro-client (37.1ubuntu0~24.04) over (31.2.3) ...
+Preparing to unpack .../30-vim-tiny_2%3a9.1.0016-1ubuntu7.9_amd64.deb ...
+Unpacking vim-tiny (2:9.1.0016-1ubuntu7.9) over (2:9.1.0016-1ubuntu7) ...
+Preparing to unpack .../31-vim-common_2%3a9.1.0016-1ubuntu7.9_all.deb ...
+Unpacking vim-common (2:9.1.0016-1ubuntu7.9) over (2:9.1.0016-1ubuntu7) ...
+Preparing to unpack .../32-ubuntu-minimal_1.539.2_amd64.deb ...
+Unpacking ubuntu-minimal (1.539.2) over (1.539) ...
+Preparing to unpack .../33-xkb-data_2.41-2ubuntu1.1_all.deb ...
+Unpacking xkb-data (2.41-2ubuntu1.1) over (2.41-2ubuntu1) ...
+Preparing to unpack .../34-xxd_2%3a9.1.0016-1ubuntu7.9_amd64.deb ...
+Unpacking xxd (2:9.1.0016-1ubuntu7.9) over (2:9.1.0016-1ubuntu7) ...
+Preparing to unpack .../35-apparmor_4.0.1really4.0.1-0ubuntu0.24.04.4_amd64.deb ...
+Unpacking apparmor (4.0.1really4.0.1-0ubuntu0.24.04.4) over (4.0.0-beta3-0ubuntu3) ...
+Preparing to unpack .../36-libnghttp2-14_1.59.0-1ubuntu0.2_amd64.deb ...
+Unpacking libnghttp2-14:amd64 (1.59.0-1ubuntu0.2) over (1.59.0-1build4) ...
+Preparing to unpack .../37-bind9-host_1%3a9.18.39-0ubuntu0.24.04.2_amd64.deb ...
+Unpacking bind9-host (1:9.18.39-0ubuntu0.24.04.2) over (1:9.18.24-0ubuntu5) ...
+Preparing to unpack .../38-bind9-dnsutils_1%3a9.18.39-0ubuntu0.24.04.2_amd64.deb ...
+Unpacking bind9-dnsutils (1:9.18.39-0ubuntu0.24.04.2) over (1:9.18.24-0ubuntu5) ...
+Preparing to unpack .../39-bind9-libs_1%3a9.18.39-0ubuntu0.24.04.2_amd64.deb ...
+Unpacking bind9-libs:amd64 (1:9.18.39-0ubuntu0.24.04.2) over (1:9.18.24-0ubuntu5) ...
+Preparing to unpack .../40-bsdextrautils_2.39.3-9ubuntu6.3_amd64.deb ...
+Unpacking bsdextrautils (2.39.3-9ubuntu6.3) over (2.39.3-9ubuntu6) ...
+Preparing to unpack .../41-busybox-static_1%3a1.36.1-6ubuntu3.1_amd64.deb ...
+Unpacking busybox-static (1:1.36.1-6ubuntu3.1) over (1:1.36.1-6ubuntu3) ...
+Preparing to unpack .../42-dmidecode_3.5-3ubuntu0.1_amd64.deb ...
+Unpacking dmidecode (3.5-3ubuntu0.1) over (3.5-3build1) ...
+Preparing to unpack .../43-libnl-route-3-200_3.7.0-0.3build1.1_amd64.deb ...
+Unpacking libnl-route-3-200:amd64 (3.7.0-0.3build1.1) over (3.7.0-0.3build1) ...
+Preparing to unpack .../44-libnl-3-200_3.7.0-0.3build1.1_amd64.deb ...
+Unpacking libnl-3-200:amd64 (3.7.0-0.3build1.1) over (3.7.0-0.3build1) ...
+Preparing to unpack .../45-libibverbs1_50.0-2ubuntu0.2_amd64.deb ...
+Unpacking libibverbs1:amd64 (50.0-2ubuntu0.2) over (50.0-2build2) ...
+Preparing to unpack .../46-ibverbs-providers_50.0-2ubuntu0.2_amd64.deb ...
+Unpacking ibverbs-providers:amd64 (50.0-2ubuntu0.2) over (50.0-2build2) ...
+Preparing to unpack .../47-iputils-tracepath_3%3a20240117-1ubuntu0.1_amd64.deb ...
+Unpacking iputils-tracepath (3:20240117-1ubuntu0.1) over (3:20240117-1build1) ...
+Preparing to unpack .../48-libtraceevent1-plugin_1%3a1.8.2-1ubuntu2.1_amd64.deb ...
+Unpacking libtraceevent1-plugin:amd64 (1:1.8.2-1ubuntu2.1) over (1:1.8.2-1ubuntu2) ...
+Preparing to unpack .../49-libtraceevent1_1%3a1.8.2-1ubuntu2.1_amd64.deb ...
+Unpacking libtraceevent1:amd64 (1:1.8.2-1ubuntu2.1) over (1:1.8.2-1ubuntu2) ...
+Preparing to unpack .../50-mtr-tiny_0.95-1.1ubuntu0.1_amd64.deb ...
+Unpacking mtr-tiny (0.95-1.1ubuntu0.1) over (0.95-1.1build2) ...
+Preparing to unpack .../51-nano_7.2-2ubuntu0.1_amd64.deb ...
+Unpacking nano (7.2-2ubuntu0.1) over (7.2-2build1) ...
+Preparing to unpack .../52-pci.ids_0.0~2024.03.31-1ubuntu0.1_all.deb ...
+Unpacking pci.ids (0.0~2024.03.31-1ubuntu0.1) over (0.0~2024.03.31-1) ...
+Preparing to unpack .../53-ubuntu-release-upgrader-core_1%3a24.04.27_all.deb ...
+Unpacking ubuntu-release-upgrader-core (1:24.04.27) over (1:24.04.16) ...
+Preparing to unpack .../54-python3-distupgrade_1%3a24.04.27_all.deb ...
+Unpacking python3-distupgrade (1:24.04.27) over (1:24.04.16) ...
+Preparing to unpack .../55-python3-update-manager_1%3a24.04.12_all.deb ...
+Unpacking python3-update-manager (1:24.04.12) over (1:24.04.6) ...
+Preparing to unpack .../56-update-manager-core_1%3a24.04.12_all.deb ...
+Unpacking update-manager-core (1:24.04.12) over (1:24.04.6) ...
+Preparing to unpack .../57-tcpdump_4.99.4-3ubuntu4.24.04.1_amd64.deb ...
+Unpacking tcpdump (4.99.4-3ubuntu4.24.04.1) over (4.99.4-3ubuntu4) ...
+Preparing to unpack .../58-wget_1.21.4-1ubuntu4.1_amd64.deb ...
+Unpacking wget (1.21.4-1ubuntu4.1) over (1.21.4-1ubuntu4) ...
+Preparing to unpack .../59-xz-utils_5.6.1+really5.4.5-1ubuntu0.2_amd64.deb ...
+Unpacking xz-utils (5.6.1+really5.4.5-1ubuntu0.2) over (5.6.1+really5.4.5-1) ...
+Preparing to unpack .../60-ubuntu-standard_1.539.2_amd64.deb ...
+Unpacking ubuntu-standard (1.539.2) over (1.539) ...
+Preparing to unpack .../61-libsasl2-modules-db_2.1.28+dfsg1-5ubuntu3.1_amd64.deb ...
+Unpacking libsasl2-modules-db:amd64 (2.1.28+dfsg1-5ubuntu3.1) over (2.1.28+dfsg1-5ubuntu3) ...
+Preparing to unpack .../62-libsasl2-2_2.1.28+dfsg1-5ubuntu3.1_amd64.deb ...
+Unpacking libsasl2-2:amd64 (2.1.28+dfsg1-5ubuntu3.1) over (2.1.28+dfsg1-5ubuntu3) ...
+Preparing to unpack .../63-libunwind8_1.6.2-3build1.1_amd64.deb ...
+Unpacking libunwind8:amd64 (1.6.2-3build1.1) over (1.6.2-3build1) ...
+Preparing to unpack .../64-ssh_1%3a9.6p1-3ubuntu13.14_all.deb ...
+Unpacking ssh (1:9.6p1-3ubuntu13.14) over (1:9.6p1-3ubuntu13) ...
+Setting up tcpdump (4.99.4-3ubuntu4.24.04.1) ...
+apparmor_parser: Unable to replace "tcpdump".  apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+Setting up libapparmor1:amd64 (4.0.1really4.0.1-0ubuntu0.24.04.4) ...
+Setting up pci.ids (0.0~2024.03.31-1ubuntu0.1) ...
+Setting up apt-utils (2.8.3) ...
+Setting up bsdextrautils (2.39.3-9ubuntu6.3) ...
+Setting up wget (1.21.4-1ubuntu4.1) ...
+Setting up distro-info-data (0.60ubuntu0.5) ...
+Setting up libsqlite3-0:amd64 (3.45.1-1ubuntu2.5) ...
+Setting up rsyslog (8.2312.0-3ubuntu9.1) ...
+Installing new version of config file /etc/apparmor.d/usr.sbin.rsyslogd ...
+info: The user `syslog' is already a member of `adm'.
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+apparmor_parser: Unable to replace "rsyslogd".  apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+Setting up libnghttp2-14:amd64 (1.59.0-1ubuntu0.2) ...
+Setting up xkb-data (2.41-2ubuntu1.1) ...
+Setting up systemd-dev (255.4-1ubuntu8.11) ...
+Setting up krb5-locales (1.20.1-6ubuntu2.6) ...
+Setting up libcom-err2:amd64 (1.47.0-2.4~exp1ubuntu4.1) ...
+Setting up libunwind8:amd64 (1.6.2-3build1.1) ...
+Setting up xxd (2:9.1.0016-1ubuntu7.9) ...
+Setting up libelf1t64:amd64 (0.190-1.1ubuntu0.1) ...
+Setting up libkrb5support0:amd64 (1.20.1-6ubuntu2.6) ...
+Setting up libsasl2-modules-db:amd64 (2.1.28+dfsg1-5ubuntu3.1) ...
+Setting up tzdata (2025b-0ubuntu0.24.04.1) ...
+
+Current default time zone: 'Etc/UTC'
+Local time is now:      Wed Dec  3 01:22:07 UTC 2025.
+Universal Time is now:  Wed Dec  3 01:22:07 UTC 2025.
+Run 'dpkg-reconfigure tzdata' if you wish to change it.
+
+Setting up libcap2-bin (1:2.66-5ubuntu2.2) ...
+Setting up eject (2.39.3-9ubuntu6.3) ...
+Setting up apparmor (4.0.1really4.0.1-0ubuntu0.24.04.4) ...
+Installing new version of config file /etc/apparmor.d/abstractions/authentication ...
+Installing new version of config file /etc/apparmor.d/abstractions/samba ...
+Installing new version of config file /etc/apparmor.d/firefox ...
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+apparmor_parser: Unable to replace "lsb_release".  apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+apparmor_parser: Unable to replace "kmod".  apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+apparmor_parser: Unable to replace "nvidia_modprobe".  apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+Reloading AppArmor profiles
+/sbin/apparmor_parser: Unable to replace "1password".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "MongoDB Compass".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "QtWebEngineProcess".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "balena-etcher".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "brave".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "Discord".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "buildah".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "busybox".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "ch-checkns".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "cam".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "ch-run".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "chrome".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "vscode".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "crun".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "devhelp".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "epiphany".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "element-desktop".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "evolution".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "flatpak".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "foliate".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "geary".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "firefox".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "github-desktop".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "goldendict".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "ipa_verify".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "lc-compliance".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "kchmviewer".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "keybase".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "libcamerify".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "linux-sandbox".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "loupe".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "lxc-create".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "lxc-attach".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "lxc-destroy".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "lxc-stop".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "lxc-execute".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "lxc-usernsexec".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "lxc-unshare".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "nautilus".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "msedge".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "notepadqq".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "mmdebstrap".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "obsidian".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "opam".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "pageedit".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "opera".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "podman".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "polypane".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "privacybrowser".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "qcam".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "qmapshack".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "qutebrowser".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "rootlesskit".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "rpm".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "rssguard".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "runc".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-adduser".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-apt".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-abort".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-checkpackages".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-clean".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-createchroot".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-destroychroot".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-hold".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-shell".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-unhold".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-distupgrade".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-update".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "signal-desktop".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "QtWebEngineProcess".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "plasmashell".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "slack".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "sbuild-upgrade".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "slirp4netns".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "scide".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "stress-ng".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "steam".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "surfshark".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "thunderbird".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "trinity".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "systemd-coredump".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "toybox".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "tup".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "tuxedo-control-center".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "userbindmount".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "unprivileged_userns".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "lsb_release".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "kmod".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "nvidia_modprobe".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "uwsgi-core".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "vdens".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "virtiofsd".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "vivaldi-bin".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "vpnns".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "wike".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "wpcom".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "unix-chkpwd".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "/usr/bin/man".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "ubuntu_pro_apt_news".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "rsyslogd".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "/usr/lib/NetworkManager/nm-dhcp-client.action".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "tcpdump".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+/sbin/apparmor_parser: Unable to replace "transmission-cli".  /sbin/apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+Error: At least one profile failed to load
+Setting up libglib2.0-0t64:amd64 (2.80.0-6ubuntu3.4) ...
+No schema files found: doing nothing.
+Setting up libglib2.0-data (2.80.0-6ubuntu3.4) ...
+Setting up vim-common (2:9.1.0016-1ubuntu7.9) ...
+Setting up busybox-static (1:1.36.1-6ubuntu3.1) ...
+Setting up mtr-tiny (0.95-1.1ubuntu0.1) ...
+Setting up libdbus-1-3:amd64 (1.14.10-4ubuntu4.1) ...
+Setting up xz-utils (5.6.1+really5.4.5-1ubuntu0.2) ...
+Setting up libproc2-0:amd64 (2:4.0.4-4ubuntu3.2) ...
+Setting up libss2:amd64 (1.47.0-2.4~exp1ubuntu4.1) ...
+Setting up sudo (1.9.15p5-3ubuntu5.24.04.1) ...
+Setting up dhcpcd-base (1:10.0.6-1ubuntu3.1) ...
+Setting up gir1.2-glib-2.0:amd64 (2.80.0-6ubuntu3.4) ...
+Setting up libk5crypto3:amd64 (1.20.1-6ubuntu2.6) ...
+Setting up logsave (1.47.0-2.4~exp1ubuntu4.1) ...
+Setting up libsasl2-2:amd64 (2.1.28+dfsg1-5ubuntu3.1) ...
+Setting up libfdisk1:amd64 (2.39.3-9ubuntu6.3) ...
+Setting up libicu74:amd64 (74.2-1ubuntu3.1) ...
+Setting up nano (7.2-2ubuntu0.1) ...
+Setting up libdevmapper1.02.1:amd64 (2:1.02.185-3ubuntu3.2) ...
+Setting up python-apt-common (2.7.7ubuntu5) ...
+Setting up mount (2.39.3-9ubuntu6.3) ...
+Setting up dmsetup (2:1.02.185-3ubuntu3.2) ...
+Setting up uuid-runtime (2.39.3-9ubuntu6.3) ...
+uuidd.service is a disabled or a static unit not running, not starting it.
+Setting up libtraceevent1:amd64 (1:1.8.2-1ubuntu2.1) ...
+Setting up dbus-session-bus-common (1.14.10-4ubuntu4.1) ...
+Setting up procps (2:4.0.4-4ubuntu3.2) ...
+Setting up libnl-3-200:amd64 (3.7.0-0.3build1.1) ...
+Setting up libcryptsetup12:amd64 (2:2.7.0-1ubuntu4.2) ...
+Setting up libkrb5-3:amd64 (1.20.1-6ubuntu2.6) ...
+Setting up dmidecode (3.5-3ubuntu0.1) ...
+Setting up dbus-system-bus-common (1.14.10-4ubuntu4.1) ...
+Setting up libbsd0:amd64 (0.12.1-1build1.1) ...
+Setting up libpam-cap:amd64 (1:2.66-5ubuntu2.2) ...
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+Setting up iputils-ping (3:20240117-1ubuntu0.1) ...
+Setting up libxml2:amd64 (2.9.14+dfsg-1.3ubuntu3.6) ...
+Setting up dbus-bin (1.14.10-4ubuntu4.1) ...
+Setting up iputils-tracepath (3:20240117-1ubuntu0.1) ...
+Setting up rsync (3.2.7-1ubuntu1.2) ...
+Setting up libkmod2:amd64 (31+20240202-2ubuntu7.1) ...
+Setting up python3-apt (2.7.7ubuntu5) ...
+Setting up iproute2 (6.1.0-1ubuntu6.2) ...
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+Setting up e2fsprogs (1.47.0-2.4~exp1ubuntu4.1) ...
+e2scrub_all.service is a disabled or a static unit not running, not starting it.
+Setting up dbus-daemon (1.14.10-4ubuntu4.1) ...
+Setting up vim-tiny (2:9.1.0016-1ubuntu7.9) ...
+Setting up kmod (31+20240202-2ubuntu7.1) ...
+Setting up libnetplan1:amd64 (1.1.2-2~ubuntu24.04.2) ...
+Setting up libnl-route-3-200:amd64 (3.7.0-0.3build1.1) ...
+Setting up dbus (1.14.10-4ubuntu4.1) ...
+A reboot is required to replace the running dbus-daemon.
+Please reboot the system when convenient.
+Setting up libgssapi-krb5-2:amd64 (1.20.1-6ubuntu2.6) ...
+Setting up libsystemd-shared:amd64 (255.4-1ubuntu8.11) ...
+Setting up libtraceevent1-plugin:amd64 (1:1.8.2-1ubuntu2.1) ...
+Setting up python3-netplan (1.1.2-2~ubuntu24.04.2) ...
+Setting up ubuntu-pro-client (37.1ubuntu0~24.04) ...
+Installing new version of config file /etc/apparmor.d/ubuntu_pro_apt_news ...
+Installing new version of config file /etc/apt/apt.conf.d/20apt-esm-hook.conf ...
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+apparmor_parser: Unable to replace "ubuntu_pro_apt_news".  apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+apparmor_parser: Unable to replace "apt_methods".  apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+apparmor_parser: Unable to replace "ubuntu_pro_esm_cache".  apparmor_parser: Access denied. You need policy admin privileges to manage profiles.
+
+Setting up ubuntu-pro-client-l10n (37.1ubuntu0~24.04) ...
+Setting up libibverbs1:amd64 (50.0-2ubuntu0.2) ...
+Setting up bind9-libs:amd64 (1:9.18.39-0ubuntu0.24.04.2) ...
+Setting up ibverbs-providers:amd64 (50.0-2ubuntu0.2) ...
+Setting up openssh-client (1:9.6p1-3ubuntu13.14) ...
+Setting up systemd (255.4-1ubuntu8.11) ...
+Setting up systemd-timesyncd (255.4-1ubuntu8.11) ...
+Setting up udev (255.4-1ubuntu8.11) ...
+systemd-udevd.service is a disabled or a static unit not running, not starting it.
+Setting up systemd-hwe-hwdb (255.1.6) ...
+Setting up netplan-generator (1.1.2-2~ubuntu24.04.2) ...
+Removing 'diversion of /lib/systemd/system-generators/netplan to /lib/systemd/system-generators/netplan.usr-is-merged by netplan-generator'
+Setting up bind9-host (1:9.18.39-0ubuntu0.24.04.2) ...
+Setting up systemd-resolved (255.4-1ubuntu8.11) ...
+Setting up openssh-sftp-server (1:9.6p1-3ubuntu13.14) ...
+Setting up systemd-sysv (255.4-1ubuntu8.11) ...
+Setting up openssh-server (1:9.6p1-3ubuntu13.14) ...
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+Replacing config file /etc/ssh/sshd_config with new version
+Setting up libnss-systemd:amd64 (255.4-1ubuntu8.11) ...
+Setting up netplan.io (1.1.2-2~ubuntu24.04.2) ...
+Setting up libpam-systemd:amd64 (255.4-1ubuntu8.11) ...
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+Setting up bind9-dnsutils (1:9.18.39-0ubuntu0.24.04.2) ...
+Setting up ssh (1:9.6p1-3ubuntu13.14) ...
+Setting up ubuntu-minimal (1.539.2) ...
+Setting up ubuntu-standard (1.539.2) ...
+Setting up dbus-user-session (1.14.10-4ubuntu4.1) ...
+Setting up python3-update-manager (1:24.04.12) ...
+Setting up python3-distupgrade (1:24.04.27) ...
+Setting up ubuntu-release-upgrader-core (1:24.04.27) ...
+Setting up update-manager-core (1:24.04.12) ...
+Processing triggers for install-info (7.1-3build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.6) ...
+Processing triggers for ufw (0.36.2-6) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+root@openwebui-ct:~# sudo apt install ca-certificates curl gnupg lsb-release -y
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+ca-certificates is already the newest version (20240203).
+gnupg is already the newest version (2.4.4-2ubuntu17.3).
+gnupg set to manually installed.
+lsb-release is already the newest version (12.0-2).
+The following additional packages will be installed:
+  libcurl4t64
+The following NEW packages will be installed:
+  curl libcurl4t64
+0 upgraded, 2 newly installed, 0 to remove and 0 not upgraded.
+Need to get 567 kB of archives.
+After this operation, 1481 kB of additional disk space will be used.
+Get:1 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 libcurl4t64 amd64 8.5.0-2ubuntu10.6 [341 kB]
+Get:2 http://archive.ubuntu.com/ubuntu noble-updates/main amd64 curl amd64 8.5.0-2ubuntu10.6 [226 kB]
+Fetched 567 kB in 3s (208 kB/s)
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+        LANGUAGE = (unset),
+        LC_ALL = (unset),
+        LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+Selecting previously unselected package libcurl4t64:amd64.
+(Reading database ... 60669 files and directories currently installed.)
+Preparing to unpack .../libcurl4t64_8.5.0-2ubuntu10.6_amd64.deb ...
+Unpacking libcurl4t64:amd64 (8.5.0-2ubuntu10.6) ...
+Selecting previously unselected package curl.
+Preparing to unpack .../curl_8.5.0-2ubuntu10.6_amd64.deb ...
+Unpacking curl (8.5.0-2ubuntu10.6) ...
+Setting up libcurl4t64:amd64 (8.5.0-2ubuntu10.6) ...
+Setting up curl (8.5.0-2ubuntu10.6) ...
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.6) ...
+root@openwebui-ct:~# sudo install -m 0755 -d /etc/apt/keyrings
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+sudo chmod a+r /etc/apt/keyrings/docker.gpg
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~# echo \
+  "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+  $(. /etc/os-release && echo "$VERSION_CODENAME") stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+root@openwebui-ct:~# sudo apt update
+Get:1 https://download.docker.com/linux/ubuntu noble InRelease [48.5 kB]
+Get:2 https://download.docker.com/linux/ubuntu noble/stable amd64 Packages [39.7 kB]
+Hit:3 http://archive.ubuntu.com/ubuntu noble InRelease
+Hit:4 http://archive.ubuntu.com/ubuntu noble-updates InRelease
+Hit:5 http://archive.ubuntu.com/ubuntu noble-security InRelease
+Fetched 88.2 kB in 1s (87.5 kB/s)
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+All packages are up to date.
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~# sudo apt install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following additional packages will be installed:
+  docker-ce-rootless-extras libslirp0 pigz slirp4netns
+Suggested packages:
+  cgroupfs-mount | cgroup-lite docker-model-plugin
+The following NEW packages will be installed:
+  containerd.io docker-buildx-plugin docker-ce docker-ce-cli docker-ce-rootless-extras docker-compose-plugin libslirp0 pigz
+  slirp4netns
+0 upgraded, 9 newly installed, 0 to remove and 0 not upgraded.
+Need to get 97.8 MB of archives.
+After this operation, 409 MB of additional disk space will be used.
+Get:1 https://download.docker.com/linux/ubuntu noble/stable amd64 containerd.io amd64 2.2.0-2~ubuntu.24.04~noble [23.3 MB]
+Get:2 http://archive.ubuntu.com/ubuntu noble/universe amd64 pigz amd64 2.8-1 [65.6 kB]
+Get:3 http://archive.ubuntu.com/ubuntu noble/main amd64 libslirp0 amd64 4.7.0-1ubuntu3 [63.8 kB]
+Get:4 http://archive.ubuntu.com/ubuntu noble/universe amd64 slirp4netns amd64 1.2.1-1build2 [34.9 kB]
+Get:5 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-ce-cli amd64 5:29.1.2-1~ubuntu.24.04~noble [16.3 MB]
+Get:6 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-ce amd64 5:29.1.2-1~ubuntu.24.04~noble [21.0 MB]
+Get:7 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-buildx-plugin amd64 0.30.1-1~ubuntu.24.04~noble [16.4 MB]
+Get:8 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-ce-rootless-extras amd64 5:29.1.2-1~ubuntu.24.04~noble [6383 kB]
+Get:9 https://download.docker.com/linux/ubuntu noble/stable amd64 docker-compose-plugin amd64 2.40.3-1~ubuntu.24.04~noble [14.3 MB]
+Fetched 97.8 MB in 14s (6921 kB/s)
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+        LANGUAGE = (unset),
+        LC_ALL = (unset),
+        LANG = "en_US.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+locale: Cannot set LC_CTYPE to default locale: No such file or directory
+locale: Cannot set LC_MESSAGES to default locale: No such file or directory
+locale: Cannot set LC_ALL to default locale: No such file or directory
+Selecting previously unselected package containerd.io.
+(Reading database ... 60682 files and directories currently installed.)
+Preparing to unpack .../0-containerd.io_2.2.0-2~ubuntu.24.04~noble_amd64.deb ...
+Unpacking containerd.io (2.2.0-2~ubuntu.24.04~noble) ...
+Selecting previously unselected package docker-ce-cli.
+Preparing to unpack .../1-docker-ce-cli_5%3a29.1.2-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-ce-cli (5:29.1.2-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package docker-ce.
+Preparing to unpack .../2-docker-ce_5%3a29.1.2-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-ce (5:29.1.2-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package pigz.
+Preparing to unpack .../3-pigz_2.8-1_amd64.deb ...
+Unpacking pigz (2.8-1) ...
+Selecting previously unselected package docker-buildx-plugin.
+Preparing to unpack .../4-docker-buildx-plugin_0.30.1-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-buildx-plugin (0.30.1-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package docker-ce-rootless-extras.
+Preparing to unpack .../5-docker-ce-rootless-extras_5%3a29.1.2-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-ce-rootless-extras (5:29.1.2-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package docker-compose-plugin.
+Preparing to unpack .../6-docker-compose-plugin_2.40.3-1~ubuntu.24.04~noble_amd64.deb ...
+Unpacking docker-compose-plugin (2.40.3-1~ubuntu.24.04~noble) ...
+Selecting previously unselected package libslirp0:amd64.
+Preparing to unpack .../7-libslirp0_4.7.0-1ubuntu3_amd64.deb ...
+Unpacking libslirp0:amd64 (4.7.0-1ubuntu3) ...
+Selecting previously unselected package slirp4netns.
+Preparing to unpack .../8-slirp4netns_1.2.1-1build2_amd64.deb ...
+Unpacking slirp4netns (1.2.1-1build2) ...
+Setting up docker-buildx-plugin (0.30.1-1~ubuntu.24.04~noble) ...
+Setting up containerd.io (2.2.0-2~ubuntu.24.04~noble) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/containerd.service → /usr/lib/systemd/system/containerd.service.
+Setting up docker-compose-plugin (2.40.3-1~ubuntu.24.04~noble) ...
+Setting up docker-ce-cli (5:29.1.2-1~ubuntu.24.04~noble) ...
+Setting up libslirp0:amd64 (4.7.0-1ubuntu3) ...
+Setting up pigz (2.8-1) ...
+Setting up docker-ce-rootless-extras (5:29.1.2-1~ubuntu.24.04~noble) ...
+Setting up slirp4netns (1.2.1-1build2) ...
+Setting up docker-ce (5:29.1.2-1~ubuntu.24.04~noble) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/docker.service → /usr/lib/systemd/system/docker.service.
+Created symlink /etc/systemd/system/sockets.target.wants/docker.socket → /usr/lib/systemd/system/docker.socket.
+Processing triggers for man-db (2.12.0-4build2) ...
+Processing triggers for libc-bin (2.39-0ubuntu8.6) ...
+root@openwebui-ct:~# sudo docker run hello-world
+Unable to find image 'hello-world:latest' locally
+latest: Pulling from library/hello-world
+17eec7bbc9d7: Pull complete
+ea52d2000f90: Download complete
+Digest: sha256:f7931603f70e13dbd844253370742c4fc4202d290c80442b2e68706d8f33ce26
+Status: Downloaded newer image for hello-world:latest
+docker: Error response from daemon: Could not check if docker-default AppArmor profile was loaded: open /sys/kernel/security/apparmor/profiles: permission denied
+
+Run 'docker run --help' for more information
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~# docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+root@openwebui-ct:~# docker  run
+docker: 'docker run' requires at least 1 argument
+
+Usage:  docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
+
+See 'docker run --help' for more information
+root@openwebui-ct:~# exit
+exit
+root@pve:~# pct stop 102
+root@pve:~# vi /etc/pve/lxc/102.conf
+root@pve:~# vi /etc/pve/lxc/102.conf
+root@pve:~# pct start 102
+explicitly configured lxc.apparmor.profile overrides the following settings: features:nesting
+root@pve:~#
+root@pve:~#
+root@pve:~#
+root@pve:~#
+root@pve:~# docker run hello-worldp^C
+root@pve:~# ^C
+root@pve:~# ^C
+root@pve:~# pct enter 102
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~#
+root@openwebui-ct:~# docker run hello-world
+docker: Error response from daemon: Could not check if docker-default AppArmor profile was loaded: open /sys/kernel/security/apparmor/profiles: permission denied
+
+Run 'docker run --help' for more information
+root@openwebui-ct:~# sudo docker run hello-world
+docker: Error response from daemon: Could not check if docker-default AppArmor profile was loaded: open /sys/kernel/security/apparmor/profiles: permission denied
+
+Run 'docker run --help' for more information
+root@openwebui-ct:~# id
+uid=0(root) gid=0(root) groups=0(root)
+root@openwebui-ct:~#  docker run
+docker: 'docker run' requires at least 1 argument
+
+Usage:  docker run [OPTIONS] IMAGE [COMMAND] [ARG...]
+
+See 'docker run --help' for more information
+root@openwebui-ct:~# pwd
+/root
+root@openwebui-ct:~# ls -alt
+total 32
+drwxr-xr-x 21 root root 4096 Dec  3 01:26 ..
+-rw-------  1 root root 1257 Dec  3 01:24 .bash_history
+drwx------  5 root root 4096 Dec  3 01:20 .
+drwx------  3 root root 4096 Dec  3 00:56 .cache
+drwxr-xr-x  4 root root 4096 Dec  3 00:54 .npm
+drwx------  2 root root 4096 May  7  2024 .ssh
+-rw-r--r--  1 root root 3106 Apr 22  2024 .bashrc
+-rw-r--r--  1 root root  161 Apr 22  2024 .profile
+root@openwebui-ct:~# sudo docker run hello-world
+docker: Error response from daemon: Could not check if docker-default AppArmor profile was loaded: open /sys/kernel/security/apparmor/profiles: permission denied
+
+Run 'docker run --help' for more information
+root@openwebui-ct:~# exit
+exit
+root@pve:~# pct stop 102
+root@pve:~# vi /etc/pve/lxc/102.conf
+root@pve:~# pct start 102
+explicitly configured lxc.apparmor.profile overrides the following settings: features:nesting
+root@pve:~# pct enter 102
+root@openwebui-ct:~# sudo docker run hello-world
+docker: Error response from daemon: Could not check if docker-default AppArmor profile was loaded: open /sys/kernel/security/apparmor/profiles: permission denied
+
+Run 'docker run --help' for more information
+root@openwebui-ct:~#
+root@pve:~#
+root@pve:~#
+root@pve:~#
+root@pve:~# pct enter 101
+root@ollama-ct:~#
+root@ollama-ct:~# ss -tuln | grep 11434
+tcp   LISTEN 0      4096       127.0.0.1:11434      0.0.0.0:*
+root@ollama-ct:~#
+root@ollama-ct:~#
+root@ollama-ct:~#
+root@ollama-ct:~#
+root@ollama-ct:~#
+root@ollama-ct:~#
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.confb29337299f5e81ae *
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+# [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3:
+xxo# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conff9f627b169c3a1af
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+# [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+Environment="OLLAMA_HOST=0.0.0.0"
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~# sudo systemctl daemon-reload
+sudo systemctl restart ollama
+root@ollama-ct:~# ss -tuln | grep 11434
+tcp   LISTEN 0      4096       127.0.0.1:11434      0.0.0.0:*
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conf0d03bfd7f9efbb5f *
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#  [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conf1d0267327d856459
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+ [Service]
+Environment="OLLAMA_HOST=0.0.0.0"
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conff226e89260e2f02e
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+# [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conf7c8400be0c212890
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+# [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+[Service]
+Environment="OLLAMA_HOST=0.0.0.0"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conf6615d96627569412
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+# [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conf634394b552966eee
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+# [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+[Service]
+Environment="OLLAMA_HOST=0.0.0.0"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conf758f9ca7b92c9f56
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+# [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~# sudo systemctl daemon-reload
+root@ollama-ct:~# sudo systemctl restart ollama
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conf375ed87b088bf426 *
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+:
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+# [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~#
+root@ollama-ct:~#
+root@ollama-ct:~#
+root@ollama-ct:~#
+root@ollama-ct:~# ss -tuln | grep 11434
+tcp   LISTEN 0      4096       127.0.0.1:11434      0.0.0.0:*
+root@ollama-ct:~#
+root@ollama-ct:~#
+root@ollama-ct:~# sudo systemctl edit ollama
+  GNU nano 7.2                     /etc/systemd/system/ollama.service.d/.#override.conf154c649545bfcfa7
+### Editing /etc/systemd/system/ollama.service.d/override.conf
+### Anything between here and the comment below will become the contents of the drop-in file
+
+
+
+### Edits below this comment will be discarded
+
+
+### /etc/systemd/system/ollama.service
+# [Unit]
+# Description=Ollama Service
+# After=network-online.target
+#
+# [Service]
+# ExecStart=/usr/bin/ollama serve
+# User=ollama
+# Group=ollama
+# Restart=always
+# RestartSec=3
+# Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+#
+# [Install]
+# WantedBy=default.target
+[Service]
+Environment="OLLAMA_HOST=0.0.0.0"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+root@ollama-ct:~#
+root@ollama-ct:~# cd /etc/sys
+sysctl.conf  sysctl.d/    sysstat/     systemd/
+root@ollama-ct:~# cd /etc/systemd/system
+system/            system-generators/ system-preset/     system.conf
+root@ollama-ct:~# cd /etc/systemd/system
+system/            system-generators/ system-preset/     system.conf
+root@ollama-ct:~# cd /etc/systemd/system/
+ctrl-alt-del.target                     multi-user.target.wants/                sys-kernel-config.mount
+dbus-org.freedesktop.network1.service   network-online.target.wants/            sys-kernel-debug.mount
+dbus-org.freedesktop.resolve1.service   ollama.service                          sysinit.target.wants/
+dbus-org.freedesktop.timesync1.service  proxmox-regenerate-snakeoil.service     syslog.service
+default.target.wants/                   sockets.target.wants/                   sysstat.service.wants/
+first-boot-complete.target.wants/       ssh.service.requires/                   systemd-journald-audit.socket
+getty.target.wants/                     sshd.service                            timers.target.wants/
+root@ollama-ct:~# cd /etc/systemd/system/
+ctrl-alt-del.target                     multi-user.target.wants/                sys-kernel-config.mount
+dbus-org.freedesktop.network1.service   network-online.target.wants/            sys-kernel-debug.mount
+dbus-org.freedesktop.resolve1.service   ollama.service                          sysinit.target.wants/
+dbus-org.freedesktop.timesync1.service  proxmox-regenerate-snakeoil.service     syslog.service
+default.target.wants/                   sockets.target.wants/                   sysstat.service.wants/
+first-boot-complete.target.wants/       ssh.service.requires/                   systemd-journald-audit.socket
+getty.target.wants/                     sshd.service                            timers.target.wants/
+root@ollama-ct:~# cd /etc/systemd/system/ollama.service .
+./             .bash_history  .cache/        .local/        .profile
+../            .bashrc        .config/       .ollama/       .ssh/
+root@ollama-ct:~# cd /etc/systemd/system/ollama.service .
+./             .bash_history  .cache/        .local/        .profile
+../            .bashrc        .config/       .ollama/       .ssh/
+root@ollama-ct:~# cd /etc/systemd/system/ollama.service
+bash: cd: /etc/systemd/system/ollama.service: Not a directory
+root@ollama-ct:~# cd /etc/systemd/system/ollama.service .
+./             .bash_history  .cache/        .local/        .profile
+../            .bashrc        .config/       .ollama/       .ssh/
+root@ollama-ct:~# cd /etc/systemd/system/ollama.service .
+./             .bash_history  .cache/        .local/        .profile
+../            .bashrc        .config/       .ollama/       .ssh/
+root@ollama-ct:~# cd /etc/systemd/system/ollama.service .
+./             .bash_history  .cache/        .local/        .profile
+../            .bashrc        .config/       .ollama/       .ssh/
+root@ollama-ct:~# cd /etc/systemd/system/
+root@ollama-ct:/etc/systemd/system# ls -lat
+total 56
+drwxr-xr-x 12 root root 4096 Dec  3 02:14 .
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 getty.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:45 default.target.wants
+-rw-r--r--  1 root root  242 Dec  2 08:45 ollama.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sysinit.target.wants
+lrwxrwxrwx  1 root root   37 Dec  2 08:32 ctrl-alt-del.target -> /usr/lib/systemd/system/reboot.target
+lrwxrwxrwx  1 root root   48 Dec  2 08:32 dbus-org.freedesktop.network1.service -> /usr/lib/systemd/system/systemd-networkd.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 multi-user.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 timers.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sockets.target.wants
+lrwxrwxrwx  1 root root   35 Dec  2 08:32 sshd.service -> /usr/lib/systemd/system/ssh.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 network-online.target.wants
+drwxr-xr-x  7 root root 4096 Dec  2 08:24 ..
+drwxr-xr-x  2 root root 4096 Dec  2 08:24 first-boot-complete.target.wants
+-rw-r--r--  1 root root  309 Dec  2 08:24 proxmox-regenerate-snakeoil.service
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-config.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-debug.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 systemd-journald-audit.socket -> /dev/null
+drwxr-xr-x  2 root root 4096 May  7  2024 sysstat.service.wants
+drwxr-xr-x  2 root root 4096 May  7  2024 ssh.service.requires
+lrwxrwxrwx  1 root root   48 May  7  2024 dbus-org.freedesktop.resolve1.service -> /usr/lib/systemd/system/systemd-resolved.service
+lrwxrwxrwx  1 root root   39 May  7  2024 syslog.service -> /usr/lib/systemd/system/rsyslog.service
+lrwxrwxrwx  1 root root   49 May  7  2024 dbus-org.freedesktop.timesync1.service -> /usr/lib/systemd/system/systemd-timesyncd.service
+root@ollama-ct:/etc/systemd/system# cd ollama.service
+bash: cd: ollama.service: Not a directory
+root@ollama-ct:/etc/systemd/system# cat ollama.service
+[Unit]
+Description=Ollama Service
+After=network-online.target
+
+[Service]
+ExecStart=/usr/bin/ollama serve
+User=ollama
+Group=ollama
+Restart=always
+RestartSec=3
+Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+
+[Install]
+WantedBy=default.target
+root@ollama-ct:/etc/systemd/system# ls -lat
+total 56
+drwxr-xr-x 12 root root 4096 Dec  3 02:14 .
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 getty.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:45 default.target.wants
+-rw-r--r--  1 root root  242 Dec  2 08:45 ollama.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sysinit.target.wants
+lrwxrwxrwx  1 root root   37 Dec  2 08:32 ctrl-alt-del.target -> /usr/lib/systemd/system/reboot.target
+lrwxrwxrwx  1 root root   48 Dec  2 08:32 dbus-org.freedesktop.network1.service -> /usr/lib/systemd/system/systemd-networkd.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 multi-user.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 timers.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sockets.target.wants
+lrwxrwxrwx  1 root root   35 Dec  2 08:32 sshd.service -> /usr/lib/systemd/system/ssh.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 network-online.target.wants
+drwxr-xr-x  7 root root 4096 Dec  2 08:24 ..
+drwxr-xr-x  2 root root 4096 Dec  2 08:24 first-boot-complete.target.wants
+-rw-r--r--  1 root root  309 Dec  2 08:24 proxmox-regenerate-snakeoil.service
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-config.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-debug.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 systemd-journald-audit.socket -> /dev/null
+drwxr-xr-x  2 root root 4096 May  7  2024 sysstat.service.wants
+drwxr-xr-x  2 root root 4096 May  7  2024 ssh.service.requires
+lrwxrwxrwx  1 root root   48 May  7  2024 dbus-org.freedesktop.resolve1.service -> /usr/lib/systemd/system/systemd-resolved.service
+lrwxrwxrwx  1 root root   39 May  7  2024 syslog.service -> /usr/lib/systemd/system/rsyslog.service
+lrwxrwxrwx  1 root root   49 May  7  2024 dbus-org.freedesktop.timesync1.service -> /usr/lib/systemd/system/systemd-timesyncd.service
+root@ollama-ct:/etc/systemd/system# ss -tuln | grep 11434
+tcp   LISTEN 0      4096       127.0.0.1:11434      0.0.0.0:*
+root@ollama-ct:/etc/systemd/system# sudo vi /etc/systemd/system/ollama.service.d/override.conf
+[Service]
+Environment="OLLAMA_HOST=0.0.0.0"
+[Service]
+Environment="OLLAMA_HOST=0.0.0.0"
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+root@ollama-ct:/etc/systemd/system# pwd
+/etc/systemd/system
+root@ollama-ct:/etc/systemd/system# ls -lat
+total 56
+drwxr-xr-x 12 root root 4096 Dec  3 02:14 .
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 getty.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:45 default.target.wants
+-rw-r--r--  1 root root  242 Dec  2 08:45 ollama.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sysinit.target.wants
+lrwxrwxrwx  1 root root   37 Dec  2 08:32 ctrl-alt-del.target -> /usr/lib/systemd/system/reboot.target
+lrwxrwxrwx  1 root root   48 Dec  2 08:32 dbus-org.freedesktop.network1.service -> /usr/lib/systemd/system/systemd-networkd.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 multi-user.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 timers.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sockets.target.wants
+lrwxrwxrwx  1 root root   35 Dec  2 08:32 sshd.service -> /usr/lib/systemd/system/ssh.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 network-online.target.wants
+drwxr-xr-x  7 root root 4096 Dec  2 08:24 ..
+drwxr-xr-x  2 root root 4096 Dec  2 08:24 first-boot-complete.target.wants
+-rw-r--r--  1 root root  309 Dec  2 08:24 proxmox-regenerate-snakeoil.service
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-config.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-debug.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 systemd-journald-audit.socket -> /dev/null
+drwxr-xr-x  2 root root 4096 May  7  2024 sysstat.service.wants
+drwxr-xr-x  2 root root 4096 May  7  2024 ssh.service.requires
+lrwxrwxrwx  1 root root   48 May  7  2024 dbus-org.freedesktop.resolve1.service -> /usr/lib/systemd/system/systemd-resolved.service
+lrwxrwxrwx  1 root root   39 May  7  2024 syslog.service -> /usr/lib/systemd/system/rsyslog.service
+lrwxrwxrwx  1 root root   49 May  7  2024 dbus-org.freedesktop.timesync1.service -> /usr/lib/systemd/system/systemd-timesyncd.service
+root@ollama-ct:/etc/systemd/system# cd ..
+root@ollama-ct:/etc/systemd# ls -lat
+total 64
+drwxr-xr-x 12 root root 4096 Dec  3 02:14 system
+drwxr-xr-x 80 root root 4096 Dec  2 09:43 ..
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 network
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 system-preset
+drwxr-xr-x  7 root root 4096 Dec  2 08:24 .
+drwxr-xr-x  2 root root 4096 May  7  2024 system-generators
+-rw-r--r--  1 root root 1663 Apr 19  2024 logind.conf
+-rw-r--r--  1 root root 1551 Apr 19  2024 resolved.conf
+-rw-r--r--  1 root root 2318 Apr 19  2024 system.conf
+-rw-r--r--  1 root root 1003 Apr 19  2024 timesyncd.conf
+drwxr-xr-x  2 root root 4096 Apr 19  2024 user
+-rw-r--r--  1 root root 1768 Apr 19  2024 user.conf
+-rw-r--r--  1 root root 1406 Feb 27  2024 journald.conf
+-rw-r--r--  1 root root 1083 Feb 27  2024 networkd.conf
+-rw-r--r--  1 root root  879 Feb 27  2024 pstore.conf
+-rw-r--r--  1 root root 1060 Feb 27  2024 sleep.conf
+root@ollama-ct:/etc/systemd# ls  user
+root@ollama-ct:/etc/systemd# ls system-preset/
+00-pve.preset
+root@ollama-ct:/etc/systemd# ls system-preset/00-pve.preset
+system-preset/00-pve.preset
+root@ollama-ct:/etc/systemd# cat  system-preset/00-pve.preset
+# Added by PVE at create-time for first-boot configuration.
+enable container-getty@.service
+disable getty@.service
+disable sys-kernel-config.mount
+disable sys-kernel-debug.mount
+enable systemd-networkd.service
+root@ollama-ct:/etc/systemd# ls -la
+total 64
+drwxr-xr-x  7 root root 4096 Dec  2 08:24 .
+drwxr-xr-x 80 root root 4096 Dec  2 09:43 ..
+-rw-r--r--  1 root root 1406 Feb 27  2024 journald.conf
+-rw-r--r--  1 root root 1663 Apr 19  2024 logind.conf
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 network
+-rw-r--r--  1 root root 1083 Feb 27  2024 networkd.conf
+-rw-r--r--  1 root root  879 Feb 27  2024 pstore.conf
+-rw-r--r--  1 root root 1551 Apr 19  2024 resolved.conf
+-rw-r--r--  1 root root 1060 Feb 27  2024 sleep.conf
+drwxr-xr-x 12 root root 4096 Dec  3 02:14 system
+drwxr-xr-x  2 root root 4096 May  7  2024 system-generators
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 system-preset
+-rw-r--r--  1 root root 2318 Apr 19  2024 system.conf
+-rw-r--r--  1 root root 1003 Apr 19  2024 timesyncd.conf
+drwxr-xr-x  2 root root 4096 Apr 19  2024 user
+-rw-r--r--  1 root root 1768 Apr 19  2024 user.conf
+root@ollama-ct:/etc/systemd# ls system
+ctrl-alt-del.target                     getty.target.wants                   ssh.service.requires     sysstat.service.wants
+dbus-org.freedesktop.network1.service   multi-user.target.wants              sshd.service             systemd-journald-audit.socket
+dbus-org.freedesktop.resolve1.service   network-online.target.wants          sys-kernel-config.mount  timers.target.wants
+dbus-org.freedesktop.timesync1.service  ollama.service                       sys-kernel-debug.mount
+default.target.wants                    proxmox-regenerate-snakeoil.service  sysinit.target.wants
+first-boot-complete.target.wants        sockets.target.wants                 syslog.service
+root@ollama-ct:/etc/systemd# ls -alt
+total 64
+drwxr-xr-x 12 root root 4096 Dec  3 02:14 system
+drwxr-xr-x 80 root root 4096 Dec  2 09:43 ..
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 network
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 system-preset
+drwxr-xr-x  7 root root 4096 Dec  2 08:24 .
+drwxr-xr-x  2 root root 4096 May  7  2024 system-generators
+-rw-r--r--  1 root root 1663 Apr 19  2024 logind.conf
+-rw-r--r--  1 root root 1551 Apr 19  2024 resolved.conf
+-rw-r--r--  1 root root 2318 Apr 19  2024 system.conf
+-rw-r--r--  1 root root 1003 Apr 19  2024 timesyncd.conf
+drwxr-xr-x  2 root root 4096 Apr 19  2024 user
+-rw-r--r--  1 root root 1768 Apr 19  2024 user.conf
+-rw-r--r--  1 root root 1406 Feb 27  2024 journald.conf
+-rw-r--r--  1 root root 1083 Feb 27  2024 networkd.conf
+-rw-r--r--  1 root root  879 Feb 27  2024 pstore.conf
+-rw-r--r--  1 root root 1060 Feb 27  2024 sleep.conf
+root@ollama-ct:/etc/systemd# cd system
+root@ollama-ct:/etc/systemd/system# ls -lat
+total 56
+drwxr-xr-x 12 root root 4096 Dec  3 02:14 .
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 getty.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:45 default.target.wants
+-rw-r--r--  1 root root  242 Dec  2 08:45 ollama.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sysinit.target.wants
+lrwxrwxrwx  1 root root   37 Dec  2 08:32 ctrl-alt-del.target -> /usr/lib/systemd/system/reboot.target
+lrwxrwxrwx  1 root root   48 Dec  2 08:32 dbus-org.freedesktop.network1.service -> /usr/lib/systemd/system/systemd-networkd.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 multi-user.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 timers.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sockets.target.wants
+lrwxrwxrwx  1 root root   35 Dec  2 08:32 sshd.service -> /usr/lib/systemd/system/ssh.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 network-online.target.wants
+drwxr-xr-x  7 root root 4096 Dec  2 08:24 ..
+drwxr-xr-x  2 root root 4096 Dec  2 08:24 first-boot-complete.target.wants
+-rw-r--r--  1 root root  309 Dec  2 08:24 proxmox-regenerate-snakeoil.service
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-config.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-debug.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 systemd-journald-audit.socket -> /dev/null
+drwxr-xr-x  2 root root 4096 May  7  2024 sysstat.service.wants
+drwxr-xr-x  2 root root 4096 May  7  2024 ssh.service.requires
+lrwxrwxrwx  1 root root   48 May  7  2024 dbus-org.freedesktop.resolve1.service -> /usr/lib/systemd/system/systemd-resolved.service
+lrwxrwxrwx  1 root root   39 May  7  2024 syslog.service -> /usr/lib/systemd/system/rsyslog.service
+lrwxrwxrwx  1 root root   49 May  7  2024 dbus-org.freedesktop.timesync1.service -> /usr/lib/systemd/system/systemd-timesyncd.service
+root@ollama-ct:/etc/systemd/system# cat ollama.service
+[Unit]
+Description=Ollama Service
+After=network-online.target
+
+[Service]
+ExecStart=/usr/bin/ollama serve
+User=ollama
+Group=ollama
+Restart=always
+RestartSec=3
+Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+
+[Install]
+WantedBy=default.target
+root@ollama-ct:/etc/systemd/system# vi  ollama.service
+[Unit]
+Description=Ollama Service
+After=network-online.target
+
+[Service]
+ExecStart=/usr/bin/ollama serve
+User=ollama
+Group=ollama
+Restart=always
+RestartSec=3
+Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+
+[Install]
+MA_HOST=0.0.0.0"WantedBy=default.target
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+root@ollama-ct:/etc/systemd/system# vi  ollama.service
+[Unit]
+Description=Ollama Service
+After=network-online.target
+
+[Service]
+ExecStart=/usr/bin/ollama serve
+User=ollama
+Group=ollama
+Restart=always
+RestartSec=3
+Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+Environment="OLLAMA_HOST=0.0.0.0"
+[Install]
+WantedBy=default.target
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+"ollama.service" 14 lines, 275 bytes written
+root@ollama-ct:/etc/systemd/system# sudo systemctl daemon-reload
+sudo systemctl restart ollama
+root@ollama-ct:/etc/systemd/system#
+root@ollama-ct:/etc/systemd/system# cd ~
+root@ollama-ct:~# history
+    1  apt update
+    2  apt install libnvidia-cuda-toolkit libnvidia-ml-dev -y
+    3  apt update
+    4  apt install libnvidia-cuda-toolkit libnvidia-ml-dev -y
+    5  vi /etc/apt/sources.list
+    6  apt update
+    7  apt install libnvidia-cuda-toolkit libnvidia-ml-dev -y
+    8  apt install libnvidia-cuda-toolkit
+    9  apt install libnvidia-cuda-toolkit libnvidia-ml-dev -y
+   10  apt install nvidia-utils-580
+   11  apt install nvidia-utils-580 libnvidia-compute-580 libnvidia-decode-580 -y
+   12  curl -fsSL https://ollama.com/install.sh | sh
+   13  apt install curl
+   14  curl -fsSL https://ollama.com/install.sh | sh
+   15  ollama
+   16  ollama  show
+   17  ollama  ollama
+   18  ollama  list
+   19  nvtop
+   20  nvitop
+   21  nvidia-smi
+   22  apt install nvitop
+   23  nvitop
+   24  nvidia-smi
+   25  apt purge libnvidia-* nvidia-* -y
+   26  apt autoremove -y
+   27  apt search libnvidia-compute | grep  580
+   28  history
+   29  apt install nvidia-utils-580 libnvidia-compute-580 libnvidia-decode-580 -y
+   30  nvidia-smi
+   31  exitnvidia-smi
+   32  exit
+   33  nvidia-smi
+   34  apt search libnvidia-compute | grep  580
+   35  apt install nvidia-utils-580
+   36  nvidia-smi
+   37  ollama run llama3
+   38  exit
+   39  ollama run llama3
+   40  ss -tuln | grep 11434
+   41  sudo systemctl edit ollama
+   42  sudo systemctl daemon-reload
+   43  sudo systemctl restart ollama
+   44  ss -tuln | grep 11434
+   45  sudo systemctl edit ollama
+   46  sudo systemctl daemon-reload
+   47  sudo systemctl restart ollama
+   48  sudo systemctl edit ollama
+   49  ss -tuln | grep 11434
+   50  sudo systemctl edit ollama
+   51  cd /etc/systemd/system/ollama.service
+   52  cd /etc/systemd/system/
+   53  ls -lat
+   54  cd ollama.service
+   55  cat ollama.service
+   56  ls -lat
+   57  ss -tuln | grep 11434
+   58  sudo vi /etc/systemd/system/ollama.service.d/override.conf
+   59  pwd
+   60  ls -lat
+   61  cd ..
+   62  ls -lat
+   63  ls  user
+   64  ls system-preset/
+   65  ls system-preset/00-pve.preset
+   66  cat  system-preset/00-pve.preset
+   67  ls -la
+   68  ls system
+   69  ls -alt
+   70  cd system
+   71  ls -lat
+   72  cat ollama.service
+   73  vi  ollama.service
+   74  sudo systemctl daemon-reload
+   75  sudo systemctl restart ollama
+   76  cd ~
+   77  history
+root@ollama-ct:~# cd /etc/systemd/system
+system/            system-generators/ system-preset/     system.conf
+root@ollama-ct:~# cd /etc/systemd/system
+system/            system-generators/ system-preset/     system.conf
+root@ollama-ct:~# cd /etc/systemd/system
+root@ollama-ct:/etc/systemd/system# ls -lat
+total 56
+drwxr-xr-x 12 root root 4096 Dec  3 02:20 .
+-rw-r--r--  1 root root  275 Dec  3 02:20 ollama.service
+drwxr-xr-x  2 root root 4096 Dec  2 09:43 getty.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:45 default.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sysinit.target.wants
+lrwxrwxrwx  1 root root   37 Dec  2 08:32 ctrl-alt-del.target -> /usr/lib/systemd/system/reboot.target
+lrwxrwxrwx  1 root root   48 Dec  2 08:32 dbus-org.freedesktop.network1.service -> /usr/lib/systemd/system/systemd-networkd.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 multi-user.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 timers.target.wants
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 sockets.target.wants
+lrwxrwxrwx  1 root root   35 Dec  2 08:32 sshd.service -> /usr/lib/systemd/system/ssh.service
+drwxr-xr-x  2 root root 4096 Dec  2 08:32 network-online.target.wants
+drwxr-xr-x  7 root root 4096 Dec  2 08:24 ..
+drwxr-xr-x  2 root root 4096 Dec  2 08:24 first-boot-complete.target.wants
+-rw-r--r--  1 root root  309 Dec  2 08:24 proxmox-regenerate-snakeoil.service
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-config.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 sys-kernel-debug.mount -> /dev/null
+lrwxrwxrwx  1 root root    9 May  7  2024 systemd-journald-audit.socket -> /dev/null
+drwxr-xr-x  2 root root 4096 May  7  2024 sysstat.service.wants
+drwxr-xr-x  2 root root 4096 May  7  2024 ssh.service.requires
+lrwxrwxrwx  1 root root   48 May  7  2024 dbus-org.freedesktop.resolve1.service -> /usr/lib/systemd/system/systemd-resolved.service
+lrwxrwxrwx  1 root root   39 May  7  2024 syslog.service -> /usr/lib/systemd/system/rsyslog.service
+lrwxrwxrwx  1 root root   49 May  7  2024 dbus-org.freedesktop.timesync1.service -> /usr/lib/systemd/system/systemd-timesyncd.service
+root@ollama-ct:/etc/systemd/system# cat ollama.service
+[Unit]
+Description=Ollama Service
+After=network-online.target
+
+[Service]
+ExecStart=/usr/bin/ollama serve
+User=ollama
+Group=ollama
+Restart=always
+RestartSec=3
+Environment="PATH=/sbin:/bin:/usr/sbin:/usr/bin"
+Environment="OLLAMA_HOST=0.0.0.0"
+[Install]
+WantedBy=default.target
+root@ollama-ct:/etc/systemd/system#
+root@ollama-ct:/etc/systemd/system#
+root@ollama-ct:/etc/systemd/system# cd ~
+root@ollama-ct:~# history
+    1  apt update
+    2  apt install libnvidia-cuda-toolkit libnvidia-ml-dev -y
+    3  apt update
+    4  apt install libnvidia-cuda-toolkit libnvidia-ml-dev -y
+    5  vi /etc/apt/sources.list
+    6  apt update
+    7  apt install libnvidia-cuda-toolkit libnvidia-ml-dev -y
+    8  apt install libnvidia-cuda-toolkit
+    9  apt install libnvidia-cuda-toolkit libnvidia-ml-dev -y
+   10  apt install nvidia-utils-580
+   11  apt install nvidia-utils-580 libnvidia-compute-580 libnvidia-decode-580 -y
+   12  curl -fsSL https://ollama.com/install.sh | sh
+   13  apt install curl
+   14  curl -fsSL https://ollama.com/install.sh | sh
+   15  ollama
+   16  ollama  show
+   17  ollama  ollama
+   18  ollama  list
+   19  nvtop
+   20  nvitop
+   21  nvidia-smi
+   22  apt install nvitop
+   23  nvitop
+   24  nvidia-smi
+   25  apt purge libnvidia-* nvidia-* -y
+   26  apt autoremove -y
+   27  apt search libnvidia-compute | grep  580
+   28  history
+   29  apt install nvidia-utils-580 libnvidia-compute-580 libnvidia-decode-580 -y
+   30  nvidia-smi
+   31  exitnvidia-smi
+   32  exit
+   33  nvidia-smi
+   34  apt search libnvidia-compute | grep  580
+   35  apt install nvidia-utils-580
+   36  nvidia-smi
+   37  ollama run llama3
+   38  exit
+   39  ollama run llama3
+   40  ss -tuln | grep 11434
+   41  sudo systemctl edit ollama
+   42  sudo systemctl daemon-reload
+   43  sudo systemctl restart ollama
+   44  ss -tuln | grep 11434
+   45  sudo systemctl edit ollama
+   46  sudo systemctl daemon-reload
+   47  sudo systemctl restart ollama
+   48  sudo systemctl edit ollama
+   49  ss -tuln | grep 11434
+   50  sudo systemctl edit ollama
+   51  cd /etc/systemd/system/ollama.service
+   52  cd /etc/systemd/system/
+   53  ls -lat
+   54  cd ollama.service
+   55  cat ollama.service
+   56  ls -lat
+   57  ss -tuln | grep 11434
+   58  sudo vi /etc/systemd/system/ollama.service.d/override.conf
+   59  pwd
+   60  ls -lat
+   61  cd ..
+   62  ls -lat
+   63  ls  user
+   64  ls system-preset/
+   65  ls system-preset/00-pve.preset
+   66  cat  system-preset/00-pve.preset
+   67  ls -la
+   68  ls system
+   69  ls -alt
+   70  cd system
+   71  ls -lat
+   72  cat ollama.service
+   73  vi  ollama.service
+   74  sudo systemctl daemon-reload
+   75  sudo systemctl restart ollama
+   76  cd ~
+   77  history
+   78  cd /etc/systemd/system
+   79  ls -lat
+   80  cat ollama.service
+   81  cd ~
+   82  history
+root@ollama-ct:~#
